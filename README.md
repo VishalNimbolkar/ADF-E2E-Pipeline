@@ -40,5 +40,3 @@ The pipeline ingests data from multiple sources, applies transformations, and ou
 - JSON  
 
 ---
-   git clone https://github.com/<your-username>/Week21-ADF-Assignment.git
-   cd Week21-ADF-Assignment
